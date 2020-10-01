@@ -437,7 +437,7 @@ Content-Length: 158
 {"csrfToken":"9abe196a-7d72-4c34-8dd0-f525045fe2ab","rpc":[["146","com.vaadin.shared.data.DataRequestRpc","requestRows",[0,400,0,0]]],"syncId":3,"clientId":3}
 ```
 
-There are 4 steps required (HTTP requests than need to be sent, in order) to fetch all the country codes from the server.
+There are 4 steps required (HTTP requests that need to be sent, in order) to fetch all the country codes from the server.
 
 1. **Select data set (7 for country codes)**\
 FIXED_ELEMENT_ID = 19\
