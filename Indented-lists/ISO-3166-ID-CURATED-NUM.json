@@ -1,0 +1,1799 @@
+{
+    "004": {
+        "alpha2": "AF",
+        "alpha3": "AFG",
+        "name": "Afghanistan",
+        "l10n": "[Afghanistan, Afghānistān, Afghanistan (l'), Afghānistān]",
+        "s": "Officially assigned"
+    },
+    "008": {
+        "alpha2": "AL",
+        "alpha3": "ALB",
+        "name": "Albania",
+        "l10n": "[Albania, Albanie (l'), Shqipëria; Shqipëri]",
+        "s": "Officially assigned"
+    },
+    "012": {
+        "alpha2": "DZ",
+        "alpha3": "DZA",
+        "name": "Algeria",
+        "l10n": "[Al Jazā'ir, Algeria, Algérie (l')]",
+        "s": "Officially assigned"
+    },
+    "016": {
+        "alpha2": "AS",
+        "alpha3": "ASM",
+        "name": "American Samoa",
+        "l10n": "[American Samoa, Samoa américaines (les)]",
+        "s": "Officially assigned"
+    },
+    "020": {
+        "alpha2": "AD",
+        "alpha3": "AND",
+        "name": "Andorra",
+        "l10n": "[Andorra, Andorra, Andorre (l')]",
+        "s": "Officially assigned"
+    },
+    "024": {
+        "alpha2": "AO",
+        "alpha3": "AGO",
+        "name": "Angola",
+        "l10n": "[Angola, Angola (l'), Angola]",
+        "s": "Officially assigned"
+    },
+    "660": {
+        "alpha2": "AI",
+        "alpha3": "AIA",
+        "name": "Anguilla",
+        "l10n": "[Anguilla, Anguilla]",
+        "s": "Officially assigned"
+    },
+    "010": {
+        "alpha2": "AQ",
+        "alpha3": "ATA",
+        "name": "Antarctica",
+        "l10n": "[Antarctica, Antarctique (l')]",
+        "r": "French Southern and Antarctic Territories (FQ, ATF, --) are now part of Antarctica and French Southern Territories (TF, ATF, 260). See also code element FQHH. Dronning Maud Land (NQ, ATN, 216) is now part of Antarctica. See also code element NQAQ.",
+        "s": "Officially assigned"
+    },
+    "028": {
+        "alpha2": "AG",
+        "alpha3": "ATG",
+        "name": "Antigua and Barbuda",
+        "l10n": "[Antigua and Barbuda, Antigua-et-Barbuda]",
+        "s": "Officially assigned"
+    },
+    "032": {
+        "alpha2": "AR",
+        "alpha3": "ARG",
+        "name": "Argentina",
+        "l10n": "[Argentina, Argentine (l'), Argentina (la)]",
+        "s": "Officially assigned"
+    },
+    "051": {
+        "alpha2": "AM",
+        "alpha3": "ARM",
+        "name": "Armenia",
+        "l10n": "[Armenia, Arménie (l'), Hayastan]",
+        "r": "Formerly part of USSR  (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "533": {
+        "alpha2": "AW",
+        "alpha3": "ABW",
+        "name": "Aruba",
+        "l10n": "[Aruba, Aruba, Aruba, Aruba]",
+        "s": "Officially assigned"
+    },
+    "036": {
+        "alpha2": "AU",
+        "alpha3": "AUS",
+        "name": "Australia",
+        "l10n": "[Australia, Australie (l')]",
+        "s": "Officially assigned"
+    },
+    "040": {
+        "alpha2": "AT",
+        "alpha3": "AUT",
+        "name": "Austria",
+        "l10n": "[Österreich, Austria, Autriche (l')]",
+        "s": "Officially assigned"
+    },
+    "031": {
+        "alpha2": "AZ",
+        "alpha3": "AZE",
+        "name": "Azerbaijan",
+        "l10n": "[Azərbaycan, Azerbaijan, Azerbaïdjan (l')]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "044": {
+        "alpha2": "BS",
+        "alpha3": "BHS",
+        "name": "Bahamas (the)",
+        "l10n": "[Bahamas (the), Bahamas (les)]",
+        "s": "Officially assigned"
+    },
+    "048": {
+        "alpha2": "BH",
+        "alpha3": "BHR",
+        "name": "Bahrain",
+        "l10n": "[Al Baḩrayn, Bahrain, Bahreïn]",
+        "s": "Officially assigned"
+    },
+    "050": {
+        "alpha2": "BD",
+        "alpha3": "BGD",
+        "name": "Bangladesh",
+        "l10n": "[Bāṁlādesh, Bangladesh, Bangladesh (le)]",
+        "s": "Officially assigned"
+    },
+    "052": {
+        "alpha2": "BB",
+        "alpha3": "BRB",
+        "name": "Barbados",
+        "l10n": "[Barbados, Barbade (la)]",
+        "s": "Officially assigned"
+    },
+    "112": {
+        "alpha2": "BY",
+        "alpha3": "BLR",
+        "name": "Belarus",
+        "l10n": "[Bielaruś, Belarus, Bélarus (le), Belarus']",
+        "r": "Name changed from Byelorussian SSR (BY, BYS, 112) to Belarus. Code element BYS removed from ISO 3166-1. See code element BYAA. Formerly part of USSR (SU, SUN, 810) before its split. See also code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "056": {
+        "alpha2": "BE",
+        "alpha3": "BEL",
+        "name": "Belgium",
+        "l10n": "[Belgien, Belgium, Belgique (la), België]",
+        "s": "Officially assigned"
+    },
+    "084": {
+        "alpha2": "BZ",
+        "alpha3": "BLZ",
+        "name": "Belize",
+        "l10n": "[Belize, Belize (le)]",
+        "s": "Officially assigned"
+    },
+    "204": {
+        "alpha2": "BJ",
+        "alpha3": "BEN",
+        "name": "Benin",
+        "l10n": "[Benin, Bénin (le)]",
+        "r": "Name changed from Dahomey (DY, DHY, 204) to Benin .  See code element DYBJ.",
+        "s": "Officially assigned"
+    },
+    "060": {
+        "alpha2": "BM",
+        "alpha3": "BMU",
+        "name": "Bermuda",
+        "l10n": "[Bermuda, Bermudes (les)]",
+        "s": "Officially assigned"
+    },
+    "064": {
+        "alpha2": "BT",
+        "alpha3": "BTN",
+        "name": "Bhutan",
+        "l10n": "[Druk-Yul, Bhutan, Bhoutan (le)]",
+        "s": "Officially assigned"
+    },
+    "068": {
+        "alpha2": "BO",
+        "alpha3": "BOL",
+        "name": "Bolivia (Plurinational State of)",
+        "l10n": "[Bolivia (Plurinational State of), Bolivie (État plurinational de), Bolivia,  Estado Plurinacional de]",
+        "s": "Officially assigned"
+    },
+    "535": {
+        "alpha2": "BQ",
+        "alpha3": "BES",
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "l10n": "[Bonaire, Sint Eustatius and Saba, Bonaire, Saint-Eustache et Saba, Bonaire, Sint Eustatius en Saba, Boneiru, Sint Eustatius y Saba]",
+        "r": "The code BQ was formerly used for British Antarctic Territory (BQ, ATB, --). See also code element BQAQ. BQ has been reused and reassigned to Bonaire, Sint Eustatius and Saba. The Netherlands Antilles (AN, ANT, 530) was divided into Bonaire, Saint Eustatius and Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) and Sint Maarten (Dutch part) (SX, SXM, 534). See also code element ANHH.",
+        "s": "Officially assigned"
+    },
+    "070": {
+        "alpha2": "BA",
+        "alpha3": "BIH",
+        "name": "Bosnia and Herzegovina",
+        "l10n": "[Bosna i Hercegovina, Bosnia and Herzegovina, Bosnie-Herzégovine (la), Bosna i Hercegovina, Bosna i Hercegovina]",
+        "r": "Formerly part of Yugoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+        "s": "Officially assigned"
+    },
+    "072": {
+        "alpha2": "BW",
+        "alpha3": "BWA",
+        "name": "Botswana",
+        "l10n": "[Botswana, Botswana (le)]",
+        "s": "Officially assigned"
+    },
+    "074": {
+        "alpha2": "BV",
+        "alpha3": "BVT",
+        "name": "Bouvet Island",
+        "l10n": "[Bouvet Island, Bouvet (l'Île), Bouvetøya, Bouvetøya]",
+        "s": "Officially assigned"
+    },
+    "076": {
+        "alpha2": "BR",
+        "alpha3": "BRA",
+        "name": "Brazil",
+        "l10n": "[Brazil, Brésil (le), Brasil (o)]",
+        "s": "Officially assigned"
+    },
+    "086": {
+        "alpha2": "IO",
+        "alpha3": "IOT",
+        "name": "British Indian Ocean Territory (the)",
+        "l10n": "[British Indian Ocean Territory (the), Indien (le Territoire britannique de l'océan)]",
+        "s": "Officially assigned"
+    },
+    "096": {
+        "alpha2": "BN",
+        "alpha3": "BRN",
+        "name": "Brunei Darussalam",
+        "l10n": "[Brunei Darussalam, Brunéi Darussalam (le), Negara Brunei Darussalam]",
+        "s": "Officially assigned"
+    },
+    "100": {
+        "alpha2": "BG",
+        "alpha3": "BGR",
+        "name": "Bulgaria",
+        "l10n": "[Bulgaria, Bulgaria, Bulgarie (la)]",
+        "s": "Officially assigned"
+    },
+    "854": {
+        "alpha2": "BF",
+        "alpha3": "BFA",
+        "name": "Burkina Faso",
+        "l10n": "[Burkina Faso, Burkina Faso (le)]",
+        "r": "Name changed from Upper Volta (HV, HVO, 854) to Burkina Faso. See also code element HVBF.",
+        "s": "Officially assigned"
+    },
+    "108": {
+        "alpha2": "BI",
+        "alpha3": "BDI",
+        "name": "Burundi",
+        "l10n": "[Burundi, Burundi (le), Burundi]",
+        "s": "Officially assigned"
+    },
+    "132": {
+        "alpha2": "CV",
+        "alpha3": "CPV",
+        "name": "Cabo Verde",
+        "l10n": "[Cabo Verde, Cabo Verde, Cabo Verde]",
+        "s": "Officially assigned"
+    },
+    "116": {
+        "alpha2": "KH",
+        "alpha3": "KHM",
+        "name": "Cambodia",
+        "l10n": "[Cambodia, Cambodge (le), Kâmpŭchéa]",
+        "s": "Officially assigned"
+    },
+    "120": {
+        "alpha2": "CM",
+        "alpha3": "CMR",
+        "name": "Cameroon",
+        "l10n": "[Cameroon, Cameroun (le)]",
+        "s": "Officially assigned"
+    },
+    "124": {
+        "alpha2": "CA",
+        "alpha3": "CAN",
+        "name": "Canada",
+        "l10n": "[Canada, Canada (le)]",
+        "s": "Officially assigned"
+    },
+    "136": {
+        "alpha2": "KY",
+        "alpha3": "CYM",
+        "name": "Cayman Islands (the)",
+        "l10n": "[Cayman Islands (the), Caïmans (les Îles)]",
+        "s": "Officially assigned"
+    },
+    "140": {
+        "alpha2": "CF",
+        "alpha3": "CAF",
+        "name": "Central African Republic (the)",
+        "l10n": "[Central African Republic (the), République centrafricaine (la), Ködörösêse tî Bêafrîka]",
+        "s": "Officially assigned"
+    },
+    "148": {
+        "alpha2": "TD",
+        "alpha3": "TCD",
+        "name": "Chad",
+        "l10n": "[Tshād, Chad, Tchad (le)]",
+        "s": "Officially assigned"
+    },
+    "152": {
+        "alpha2": "CL",
+        "alpha3": "CHL",
+        "name": "Chile",
+        "l10n": "[Chile, Chili (le), Chile]",
+        "s": "Officially assigned"
+    },
+    "156": {
+        "alpha2": "CN",
+        "alpha3": "CHN",
+        "name": "China",
+        "l10n": "[China, Chine (la), Zhongguo]",
+        "s": "Officially assigned"
+    },
+    "162": {
+        "alpha2": "CX",
+        "alpha3": "CXR",
+        "name": "Christmas Island",
+        "l10n": "[Christmas Island, Christmas (l'Île)]",
+        "s": "Officially assigned"
+    },
+    "166": {
+        "alpha2": "CC",
+        "alpha3": "CCK",
+        "name": "Cocos (Keeling) Islands (the)",
+        "l10n": "[Cocos (Keeling) Islands (the), Cocos (les Îles)/ Keeling (les Îles)]",
+        "s": "Officially assigned"
+    },
+    "170": {
+        "alpha2": "CO",
+        "alpha3": "COL",
+        "name": "Colombia",
+        "l10n": "[Colombia, Colombie (la), Colombia]",
+        "s": "Officially assigned"
+    },
+    "174": {
+        "alpha2": "KM",
+        "alpha3": "COM",
+        "name": "Comoros (the)",
+        "l10n": "[Komori, Al Qamar, Comoros (the), Comores (les)]",
+        "s": "Officially assigned"
+    },
+    "180": {
+        "alpha2": "CD",
+        "alpha3": "COD",
+        "name": "Congo (the Democratic Republic of the)",
+        "l10n": "[Congo (the Democratic Republic of the), Congo (la République démocratique du)]",
+        "r": "Name changed from Zaire (ZR, ZAR, 180) to the Democratic Republic of the Congo. See also code element ZRCD.",
+        "s": "Officially assigned"
+    },
+    "178": {
+        "alpha2": "CG",
+        "alpha3": "COG",
+        "name": "Congo (the)",
+        "l10n": "[Congo (the), Congo (le)]",
+        "s": "Officially assigned"
+    },
+    "184": {
+        "alpha2": "CK",
+        "alpha3": "COK",
+        "name": "Cook Islands (the)",
+        "l10n": "[Cook Islands (the), Cook (les Îles)]",
+        "s": "Officially assigned"
+    },
+    "188": {
+        "alpha2": "CR",
+        "alpha3": "CRI",
+        "name": "Costa Rica",
+        "l10n": "[Costa Rica, Costa Rica (le), Costa Rica]",
+        "s": "Officially assigned"
+    },
+    "191": {
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "name": "Croatia",
+        "l10n": "[Croatia, Croatie (la), Hrvatska]",
+        "r": "Formerly part of Yougoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+        "s": "Officially assigned"
+    },
+    "192": {
+        "alpha2": "CU",
+        "alpha3": "CUB",
+        "name": "Cuba",
+        "l10n": "[Cuba, Cuba, Cuba]",
+        "s": "Officially assigned"
+    },
+    "531": {
+        "alpha2": "CW",
+        "alpha3": "CUW",
+        "name": "Curaçao",
+        "l10n": "[Curaçao, Curaçao, Curaçao, Kòrsou]",
+        "r": "The Netherlands Antilles (AN, ANT, 530) was divided into Bonaire, Saint Eustatius and Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) and Sint Maarten (Dutch part) (SX, SXM, 534). See also code element ANHH.",
+        "s": "Officially assigned"
+    },
+    "196": {
+        "alpha2": "CY",
+        "alpha3": "CYP",
+        "name": "Cyprus",
+        "l10n": "[Kýpros, Cyprus, Chypre, Kıbrıs]",
+        "s": "Officially assigned"
+    },
+    "203": {
+        "alpha2": "CZ",
+        "alpha3": "CZE",
+        "name": "Czechia",
+        "l10n": "[Česko, Czechia, Tchéquie (la)]",
+        "r": "Czechoslovakia (CS, CSK, 200) was divided into Czechia (CZ, CZE, 203), and Slovakia (SK, SVK, 703). See also code element CSHH.",
+        "s": "Officially assigned"
+    },
+    "384": {
+        "alpha2": "CI",
+        "alpha3": "CIV",
+        "name": "Côte d'Ivoire",
+        "l10n": "[Côte d'Ivoire, Côte d'Ivoire (la)]",
+        "s": "Officially assigned"
+    },
+    "208": {
+        "alpha2": "DK",
+        "alpha3": "DNK",
+        "name": "Denmark",
+        "l10n": "[Danmark, Denmark, Danemark (le)]",
+        "s": "Officially assigned"
+    },
+    "262": {
+        "alpha2": "DJ",
+        "alpha3": "DJI",
+        "name": "Djibouti",
+        "l10n": "[Jībūtī, Djibouti, Djibouti]",
+        "r": "Name changed from French Afars and Issas (AI, AFI, --) to Djibouti. See also code element AIDJ.",
+        "s": "Officially assigned"
+    },
+    "212": {
+        "alpha2": "DM",
+        "alpha3": "DMA",
+        "name": "Dominica",
+        "l10n": "[Dominica, Dominique (la)]",
+        "s": "Officially assigned"
+    },
+    "214": {
+        "alpha2": "DO",
+        "alpha3": "DOM",
+        "name": "Dominican Republic (the)",
+        "l10n": "[Dominican Republic (the), dominicaine (la République), República Dominicana (la)]",
+        "s": "Officially assigned"
+    },
+    "218": {
+        "alpha2": "EC",
+        "alpha3": "ECU",
+        "name": "Ecuador",
+        "l10n": "[Ecuador, Équateur (l'), Ecuador (el)]",
+        "s": "Officially assigned"
+    },
+    "818": {
+        "alpha2": "EG",
+        "alpha3": "EGY",
+        "name": "Egypt",
+        "l10n": "[Mişr, Egypt, Égypte (l')]",
+        "s": "Officially assigned"
+    },
+    "222": {
+        "alpha2": "SV",
+        "alpha3": "SLV",
+        "name": "El Salvador",
+        "l10n": "[El Salvador, El Salvador, El Salvador]",
+        "s": "Officially assigned"
+    },
+    "226": {
+        "alpha2": "GQ",
+        "alpha3": "GNQ",
+        "name": "Equatorial Guinea",
+        "l10n": "[Equatorial Guinea, Guinée équatoriale (la), Guiné Equatorial (a), Guinea Ecuatorial]",
+        "s": "Officially assigned"
+    },
+    "232": {
+        "alpha2": "ER",
+        "alpha3": "ERI",
+        "name": "Eritrea",
+        "l10n": "[Irītrīyā, Eritrea, Érythrée (l'), Iertra]",
+        "s": "Officially assigned"
+    },
+    "233": {
+        "alpha2": "EE",
+        "alpha3": "EST",
+        "name": "Estonia",
+        "l10n": "[Estonia, Eesti, Estonie (l')]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "748": {
+        "alpha2": "SZ",
+        "alpha3": "SWZ",
+        "name": "Eswatini",
+        "l10n": "[Eswatini, Eswatini (l'), eSwatini]",
+        "s": "Officially assigned"
+    },
+    "231": {
+        "alpha2": "ET",
+        "alpha3": "ETH",
+        "name": "Ethiopia",
+        "l10n": "[Ītyop'iya, Ethiopia, Éthiopie (l')]",
+        "s": "Officially assigned"
+    },
+    "238": {
+        "alpha2": "FK",
+        "alpha3": "FLK",
+        "name": "Falkland Islands (the) [Malvinas]",
+        "l10n": "[Falkland Islands (the) [Malvinas], Falkland (les Îles)/Malouines (les Îles)]",
+        "s": "Officially assigned"
+    },
+    "234": {
+        "alpha2": "FO",
+        "alpha3": "FRO",
+        "name": "Faroe Islands (the)",
+        "l10n": "[Færøerne, Faroe Islands (the), Føroyar, Féroé (les Îles)]",
+        "s": "Officially assigned"
+    },
+    "242": {
+        "alpha2": "FJ",
+        "alpha3": "FJI",
+        "name": "Fiji",
+        "l10n": "[Fiji, Viti, Fidji (les)]",
+        "s": "Officially assigned"
+    },
+    "246": {
+        "alpha2": "FI",
+        "alpha3": "FIN",
+        "name": "Finland",
+        "l10n": "[Finland, Suomi, Finlande (la), Finland]",
+        "s": "Officially assigned"
+    },
+    "250": {
+        "alpha2": "FR",
+        "alpha3": "FRA",
+        "name": "France",
+        "l10n": "[France, France (la)]",
+        "r": "Metropolitan France (FX, FXX, 249) is now incorporated into the entry for France (FR, FRA, 250). See also code element FXFR.",
+        "s": "Officially assigned"
+    },
+    "254": {
+        "alpha2": "GF",
+        "alpha3": "GUF",
+        "name": "French Guiana",
+        "l10n": "[French Guiana, Guyane française (la )]",
+        "s": "Officially assigned"
+    },
+    "258": {
+        "alpha2": "PF",
+        "alpha3": "PYF",
+        "name": "French Polynesia",
+        "l10n": "[French Polynesia, Polynésie française (la)]",
+        "s": "Officially assigned"
+    },
+    "260": {
+        "alpha2": "TF",
+        "alpha3": "ATF",
+        "name": "French Southern Territories (the)",
+        "l10n": "[French Southern Territories (the), Terres australes françaises (les)]",
+        "r": "French Southern and Antarctic Territories (FQ, ATF, --) now part of Antarctica (AQ, ATA, 010) and French Southern Territories. See also code element FQHH.",
+        "s": "Officially assigned"
+    },
+    "266": {
+        "alpha2": "GA",
+        "alpha3": "GAB",
+        "name": "Gabon",
+        "l10n": "[Gabon, Gabon (le)]",
+        "s": "Officially assigned"
+    },
+    "270": {
+        "alpha2": "GM",
+        "alpha3": "GMB",
+        "name": "Gambia (the)",
+        "l10n": "[Gambia (the), Gambie (la)]",
+        "s": "Officially assigned"
+    },
+    "268": {
+        "alpha2": "GE",
+        "alpha3": "GEO",
+        "name": "Georgia",
+        "l10n": "[Georgia, Géorgie (la), Sakartvelo]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "276": {
+        "alpha2": "DE",
+        "alpha3": "DEU",
+        "name": "Germany",
+        "l10n": "[Deutschland, Germany, Allemagne (l')]",
+        "r": "Since reunification, the code elements for the former German Democratic Republic (DD, DDR, 278) have been incorporated into the code elements for Germany. See also code element DDDE.",
+        "s": "Officially assigned"
+    },
+    "288": {
+        "alpha2": "GH",
+        "alpha3": "GHA",
+        "name": "Ghana",
+        "l10n": "[Ghana, Ghana (le)]",
+        "s": "Officially assigned"
+    },
+    "292": {
+        "alpha2": "GI",
+        "alpha3": "GIB",
+        "name": "Gibraltar",
+        "l10n": "[Gibraltar, Gibraltar]",
+        "s": "Officially assigned"
+    },
+    "300": {
+        "alpha2": "GR",
+        "alpha3": "GRC",
+        "name": "Greece",
+        "l10n": "[Elláda, Greece, Grèce (la)]",
+        "s": "Officially assigned"
+    },
+    "304": {
+        "alpha2": "GL",
+        "alpha3": "GRL",
+        "name": "Greenland",
+        "l10n": "[Grønland, Greenland, Groenland (le), Kalaallit Nunaat]",
+        "s": "Officially assigned"
+    },
+    "308": {
+        "alpha2": "GD",
+        "alpha3": "GRD",
+        "name": "Grenada",
+        "l10n": "[Grenada, Grenade (la)]",
+        "s": "Officially assigned"
+    },
+    "312": {
+        "alpha2": "GP",
+        "alpha3": "GLP",
+        "name": "Guadeloupe",
+        "l10n": "[Guadeloupe, Guadeloupe (la)]",
+        "s": "Officially assigned"
+    },
+    "316": {
+        "alpha2": "GU",
+        "alpha3": "GUM",
+        "name": "Guam",
+        "l10n": "[Guam, Guam]",
+        "s": "Officially assigned"
+    },
+    "320": {
+        "alpha2": "GT",
+        "alpha3": "GTM",
+        "name": "Guatemala",
+        "l10n": "[Guatemala, Guatemala (le), Guatemala]",
+        "s": "Officially assigned"
+    },
+    "831": {
+        "alpha2": "GG",
+        "alpha3": "GGY",
+        "name": "Guernsey",
+        "l10n": "[Guernsey, Guernesey]",
+        "s": "Officially assigned"
+    },
+    "324": {
+        "alpha2": "GN",
+        "alpha3": "GIN",
+        "name": "Guinea",
+        "l10n": "[Guinea, Guinée (la)]",
+        "s": "Officially assigned"
+    },
+    "624": {
+        "alpha2": "GW",
+        "alpha3": "GNB",
+        "name": "Guinea-Bissau",
+        "l10n": "[Guinea-Bissau, Guinée-Bissau (la), Guiné-Bissau (a)]",
+        "s": "Officially assigned"
+    },
+    "328": {
+        "alpha2": "GY",
+        "alpha3": "GUY",
+        "name": "Guyana",
+        "l10n": "[Guyana, Guyana (le)]",
+        "s": "Officially assigned"
+    },
+    "332": {
+        "alpha2": "HT",
+        "alpha3": "HTI",
+        "name": "Haiti",
+        "l10n": "[Haiti, Haïti, Ayiti]",
+        "s": "Officially assigned"
+    },
+    "334": {
+        "alpha2": "HM",
+        "alpha3": "HMD",
+        "name": "Heard Island and McDonald Islands",
+        "l10n": "[Heard Island and McDonald Islands, Heard-et-Îles MacDonald (l'Île)]",
+        "s": "Officially assigned"
+    },
+    "336": {
+        "alpha2": "VA",
+        "alpha3": "VAT",
+        "name": "Holy See (the)",
+        "l10n": "[Holy See (the), Saint-Siège (le), Santa Sede (la), Sancta Sedes]",
+        "s": "Officially assigned"
+    },
+    "340": {
+        "alpha2": "HN",
+        "alpha3": "HND",
+        "name": "Honduras",
+        "l10n": "[Honduras, Honduras (le), Honduras]",
+        "s": "Officially assigned"
+    },
+    "344": {
+        "alpha2": "HK",
+        "alpha3": "HKG",
+        "name": "Hong Kong",
+        "l10n": "[Hong Kong, Hong Kong, Xianggang]",
+        "s": "Officially assigned"
+    },
+    "348": {
+        "alpha2": "HU",
+        "alpha3": "HUN",
+        "name": "Hungary",
+        "l10n": "[Hungary, Hongrie (la), Magyarország]",
+        "s": "Officially assigned"
+    },
+    "352": {
+        "alpha2": "IS",
+        "alpha3": "ISL",
+        "name": "Iceland",
+        "l10n": "[Iceland, Islande (l'), Ísland]",
+        "s": "Officially assigned"
+    },
+    "356": {
+        "alpha2": "IN",
+        "alpha3": "IND",
+        "name": "India",
+        "l10n": "[India, Inde (l'), Bhārat]",
+        "r": "Sikkim (SK, SKM, --) is now part of the entry for India.",
+        "s": "Officially assigned"
+    },
+    "360": {
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "l10n": "[Indonesia, Indonésie (l'), Indonesia]",
+        "s": "Officially assigned"
+    },
+    "364": {
+        "alpha2": "IR",
+        "alpha3": "IRN",
+        "name": "Iran (Islamic Republic of)",
+        "l10n": "[Iran (Islamic Republic of), Jomhūrī-ye Eslāmī-ye Īrān, Iran (République Islamique d')]",
+        "s": "Officially assigned"
+    },
+    "368": {
+        "alpha2": "IQ",
+        "alpha3": "IRQ",
+        "name": "Iraq",
+        "l10n": "[Al ‘Irāq, Iraq, Iraq (l'), ‘Êraq]",
+        "r": "The Neutral Zone (NT, NTZ, 536) was divided and is now part of Iraq (IQ, IRQ, 368) and part of Saudi Arabia (SA, SAU, 682). The code entry (NT, NTZ,  536) was deleted from ISO 3166-1. See also code elelement NTHH.",
+        "s": "Officially assigned"
+    },
+    "372": {
+        "alpha2": "IE",
+        "alpha3": "IRL",
+        "name": "Ireland",
+        "l10n": "[Ireland, Irlande (l'), Éire]",
+        "s": "Officially assigned"
+    },
+    "833": {
+        "alpha2": "IM",
+        "alpha3": "IMN",
+        "name": "Isle of Man",
+        "l10n": "[Isle of Man, Île de Man]",
+        "s": "Officially assigned"
+    },
+    "376": {
+        "alpha2": "IL",
+        "alpha3": "ISR",
+        "name": "Israel",
+        "l10n": "[Isrā'īl, Israel, Israël, Yisra'el]",
+        "s": "Officially assigned"
+    },
+    "380": {
+        "alpha2": "IT",
+        "alpha3": "ITA",
+        "name": "Italy",
+        "l10n": "[Italy, Italie (l'), Italia (l')]",
+        "s": "Officially assigned"
+    },
+    "388": {
+        "alpha2": "JM",
+        "alpha3": "JAM",
+        "name": "Jamaica",
+        "l10n": "[Jamaica, Jamaïque (la)]",
+        "s": "Officially assigned"
+    },
+    "392": {
+        "alpha2": "JP",
+        "alpha3": "JPN",
+        "name": "Japan",
+        "l10n": "[Japan, Japon (le), Nihon/Nippon]",
+        "s": "Officially assigned"
+    },
+    "832": {
+        "alpha2": "JE",
+        "alpha3": "JEY",
+        "name": "Jersey",
+        "l10n": "[Jersey, Jersey]",
+        "s": "Officially assigned"
+    },
+    "400": {
+        "alpha2": "JO",
+        "alpha3": "JOR",
+        "name": "Jordan",
+        "l10n": "[Al Urdun, Jordan, Jordanie (la)]",
+        "s": "Officially assigned"
+    },
+    "398": {
+        "alpha2": "KZ",
+        "alpha3": "KAZ",
+        "name": "Kazakhstan",
+        "l10n": "[Kazakhstan, Kazakhstan (le), Qazaqstan, Kazahstan]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "404": {
+        "alpha2": "KE",
+        "alpha3": "KEN",
+        "name": "Kenya",
+        "l10n": "[Kenya, Kenya (le), Kenya]",
+        "s": "Officially assigned"
+    },
+    "296": {
+        "alpha2": "KI",
+        "alpha3": "KIR",
+        "name": "Kiribati",
+        "l10n": "[Kiribati, Kiribati, Kiribati]",
+        "r": "Canton and Enderbury Islands (CT, CTE, 128) now part of Kirbati. See also code element CTKI. Gilbert and Ellice Islands (GE, GEL, --) divided into: Gilbert Islands now part of Kiribati, and Ellice Islands now part of Tuvalu (TV, TUV, 798). See also code element GEHH.",
+        "s": "Officially assigned"
+    },
+    "408": {
+        "alpha2": "KP",
+        "alpha3": "PRK",
+        "name": "Korea (the Democratic People's Republic of)",
+        "l10n": "[Korea (the Democratic People's Republic of), Corée (la République populaire démocratique de), Chosŏn]",
+        "s": "Officially assigned"
+    },
+    "410": {
+        "alpha2": "KR",
+        "alpha3": "KOR",
+        "name": "Korea (the Republic of)",
+        "l10n": "[Korea (the Republic of), Corée (la République de), Hanguk]",
+        "s": "Officially assigned"
+    },
+    "414": {
+        "alpha2": "KW",
+        "alpha3": "KWT",
+        "name": "Kuwait",
+        "l10n": "[Al Kuwayt, Kuwait, Koweït (le)]",
+        "s": "Officially assigned"
+    },
+    "417": {
+        "alpha2": "KG",
+        "alpha3": "KGZ",
+        "name": "Kyrgyzstan",
+        "l10n": "[Kyrgyzstan, Kirghizistan (le), Kyrgyzstan, Kyrgyzstan]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "418": {
+        "alpha2": "LA",
+        "alpha3": "LAO",
+        "name": "Lao People's Democratic Republic (the)",
+        "l10n": "[Lao People's Democratic Republic (the), Lao (la République démocratique populaire), Sathalanalat Paxathipatai Paxaxôn Lao]",
+        "s": "Officially assigned"
+    },
+    "428": {
+        "alpha2": "LV",
+        "alpha3": "LVA",
+        "name": "Latvia",
+        "l10n": "[Latvia, Lettonie (la), Latvija]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "422": {
+        "alpha2": "LB",
+        "alpha3": "LBN",
+        "name": "Lebanon",
+        "l10n": "[Lubnān, Lebanon, Liban (le)]",
+        "s": "Officially assigned"
+    },
+    "426": {
+        "alpha2": "LS",
+        "alpha3": "LSO",
+        "name": "Lesotho",
+        "l10n": "[Lesotho, Lesotho (le), Lesotho]",
+        "s": "Officially assigned"
+    },
+    "430": {
+        "alpha2": "LR",
+        "alpha3": "LBR",
+        "name": "Liberia",
+        "l10n": "[Liberia, Libéria (le)]",
+        "s": "Officially assigned"
+    },
+    "434": {
+        "alpha2": "LY",
+        "alpha3": "LBY",
+        "name": "Libya",
+        "l10n": "[Lībiyā, Libya, Libye (la)]",
+        "s": "Officially assigned"
+    },
+    "438": {
+        "alpha2": "LI",
+        "alpha3": "LIE",
+        "name": "Liechtenstein",
+        "l10n": "[Liechtenstein, Liechtenstein, Liechtenstein (le)]",
+        "s": "Officially assigned"
+    },
+    "440": {
+        "alpha2": "LT",
+        "alpha3": "LTU",
+        "name": "Lithuania",
+        "l10n": "[Lithuania, Lituanie (la), Lietuva]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "442": {
+        "alpha2": "LU",
+        "alpha3": "LUX",
+        "name": "Luxembourg",
+        "l10n": "[Luxemburg, Luxembourg, Luxembourg (le), Lëtzebuerg]",
+        "s": "Officially assigned"
+    },
+    "446": {
+        "alpha2": "MO",
+        "alpha3": "MAC",
+        "name": "Macao",
+        "l10n": "[Macao, Macao, Macau, Aomen]",
+        "s": "Officially assigned"
+    },
+    "450": {
+        "alpha2": "MG",
+        "alpha3": "MDG",
+        "name": "Madagascar",
+        "l10n": "[Madagascar, Madagascar, Madagasikara]",
+        "s": "Officially assigned"
+    },
+    "454": {
+        "alpha2": "MW",
+        "alpha3": "MWI",
+        "name": "Malawi",
+        "l10n": "[Malawi, Malawi (le), Malaŵi]",
+        "s": "Officially assigned"
+    },
+    "458": {
+        "alpha2": "MY",
+        "alpha3": "MYS",
+        "name": "Malaysia",
+        "l10n": "[Malaysia, Malaisie (la), Malaysia]",
+        "s": "Officially assigned"
+    },
+    "462": {
+        "alpha2": "MV",
+        "alpha3": "MDV",
+        "name": "Maldives",
+        "l10n": "[Dhivehi Raajje, Maldives, Maldives (les)]",
+        "s": "Officially assigned"
+    },
+    "466": {
+        "alpha2": "ML",
+        "alpha3": "MLI",
+        "name": "Mali",
+        "l10n": "[Mali, Mali (le)]",
+        "s": "Officially assigned"
+    },
+    "470": {
+        "alpha2": "MT",
+        "alpha3": "MLT",
+        "name": "Malta",
+        "l10n": "[Malta, Malte, Malta]",
+        "s": "Officially assigned"
+    },
+    "584": {
+        "alpha2": "MH",
+        "alpha3": "MHL",
+        "name": "Marshall Islands (the)",
+        "l10n": "[Marshall Islands (the), Marshall (les Îles), Aelōn̄ in M̧ajeļ]",
+        "r": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands, Federated States of Micronesia (FM, FSM, 583), Northern Mariana Islands (MP, MNP, 580) and Palau (PW, PLW, 585). See also code element PCHH.",
+        "s": "Officially assigned"
+    },
+    "474": {
+        "alpha2": "MQ",
+        "alpha3": "MTQ",
+        "name": "Martinique",
+        "l10n": "[Martinique, Martinique (la)]",
+        "s": "Officially assigned"
+    },
+    "478": {
+        "alpha2": "MR",
+        "alpha3": "MRT",
+        "name": "Mauritania",
+        "l10n": "[Mūrītāniyā, Mauritania, Mauritanie (la)]",
+        "s": "Officially assigned"
+    },
+    "480": {
+        "alpha2": "MU",
+        "alpha3": "MUS",
+        "name": "Mauritius",
+        "l10n": "[Mauritius, Maurice]",
+        "s": "Officially assigned"
+    },
+    "175": {
+        "alpha2": "YT",
+        "alpha3": "MYT",
+        "name": "Mayotte",
+        "l10n": "[Mayotte, Mayotte]",
+        "s": "Officially assigned"
+    },
+    "484": {
+        "alpha2": "MX",
+        "alpha3": "MEX",
+        "name": "Mexico",
+        "l10n": "[Mexico, Mexique (le), México]",
+        "s": "Officially assigned"
+    },
+    "583": {
+        "alpha2": "FM",
+        "alpha3": "FSM",
+        "name": "Micronesia (Federated States of)",
+        "l10n": "[Micronesia (Federated States of), Micronésie (États fédérés de)]",
+        "r": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands (MH, MHL, 584), Federated States of Micronesia, Northern Mariana Islands (MP, MNP, 580) and Palau (PW, PLW, 585). See also code element PCHH.",
+        "s": "Officially assigned"
+    },
+    "498": {
+        "alpha2": "MD",
+        "alpha3": "MDA",
+        "name": "Moldova (the Republic of)",
+        "l10n": "[Moldova (the Republic of), Moldova (la République de), Republica Moldova]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "492": {
+        "alpha2": "MC",
+        "alpha3": "MCO",
+        "name": "Monaco",
+        "l10n": "[Monaco, Monaco]",
+        "s": "Officially assigned"
+    },
+    "496": {
+        "alpha2": "MN",
+        "alpha3": "MNG",
+        "name": "Mongolia",
+        "l10n": "[Mongolia, Mongolie (la), Mongol]",
+        "s": "Officially assigned"
+    },
+    "499": {
+        "alpha2": "ME",
+        "alpha3": "MNE",
+        "name": "Montenegro",
+        "l10n": "[Crna Gora, Montenegro, Monténégro (le)]",
+        "r": "Serbia and Montenegro (CS, SCG, 891) was divided into Serbia (RS, SRB, 688) and Montenegro (ME, MNE, 499). See also code element CSXX.",
+        "s": "Officially assigned"
+    },
+    "500": {
+        "alpha2": "MS",
+        "alpha3": "MSR",
+        "name": "Montserrat",
+        "l10n": "[Montserrat, Montserrat]",
+        "s": "Officially assigned"
+    },
+    "504": {
+        "alpha2": "MA",
+        "alpha3": "MAR",
+        "name": "Morocco",
+        "l10n": "[Al Maghrib, Morocco, Maroc (le)]",
+        "s": "Officially assigned"
+    },
+    "508": {
+        "alpha2": "MZ",
+        "alpha3": "MOZ",
+        "name": "Mozambique",
+        "l10n": "[Mozambique, Mozambique (le), Moçambique]",
+        "s": "Officially assigned"
+    },
+    "104": {
+        "alpha2": "MM",
+        "alpha3": "MMR",
+        "name": "Myanmar",
+        "l10n": "[Myanmar, Myanmar (le), Myanma]",
+        "r": "Name changed from former Burma (BU, BUR, 104) to Myanmar (MM MMR, 104). See code element BUMM.",
+        "s": "Officially assigned"
+    },
+    "516": {
+        "alpha2": "NA",
+        "alpha3": "NAM",
+        "name": "Namibia",
+        "l10n": "[Namibia, Namibie (la)]",
+        "s": "Officially assigned"
+    },
+    "520": {
+        "alpha2": "NR",
+        "alpha3": "NRU",
+        "name": "Nauru",
+        "l10n": "[Nauru, Nauru, Naoero]",
+        "s": "Officially assigned"
+    },
+    "524": {
+        "alpha2": "NP",
+        "alpha3": "NPL",
+        "name": "Nepal",
+        "l10n": "[Nepal, Népal (le), Nepāl]",
+        "s": "Officially assigned"
+    },
+    "528": {
+        "alpha2": "NL",
+        "alpha3": "NLD",
+        "name": "Netherlands (the)",
+        "l10n": "[Netherlands (the), Pays-Bas (les), Nederland]",
+        "s": "Officially assigned",
+        "sr": "Includes: the islands Bonaire, Saint Eustatius and Saba"
+    },
+    "540": {
+        "alpha2": "NC",
+        "alpha3": "NCL",
+        "name": "New Caledonia",
+        "l10n": "[New Caledonia, Nouvelle-Calédonie (la)]",
+        "s": "Officially assigned"
+    },
+    "554": {
+        "alpha2": "NZ",
+        "alpha3": "NZL",
+        "name": "New Zealand",
+        "l10n": "[New Zealand, Nouvelle-Zélande (la), Aotearoa]",
+        "s": "Officially assigned"
+    },
+    "558": {
+        "alpha2": "NI",
+        "alpha3": "NIC",
+        "name": "Nicaragua",
+        "l10n": "[Nicaragua, Nicaragua (le), Nicaragua]",
+        "s": "Officially assigned"
+    },
+    "562": {
+        "alpha2": "NE",
+        "alpha3": "NER",
+        "name": "Niger (the)",
+        "l10n": "[Niger (the), Niger (le)]",
+        "s": "Officially assigned"
+    },
+    "566": {
+        "alpha2": "NG",
+        "alpha3": "NGA",
+        "name": "Nigeria",
+        "l10n": "[Nigeria, Nigéria (le)]",
+        "s": "Officially assigned"
+    },
+    "570": {
+        "alpha2": "NU",
+        "alpha3": "NIU",
+        "name": "Niue",
+        "l10n": "[Niue, Niue, Niue]",
+        "s": "Officially assigned"
+    },
+    "574": {
+        "alpha2": "NF",
+        "alpha3": "NFK",
+        "name": "Norfolk Island",
+        "l10n": "[Norfolk Island, Norfolk (l'Île)]",
+        "s": "Officially assigned"
+    },
+    "807": {
+        "alpha2": "MK",
+        "alpha3": "MKD",
+        "name": "North Macedonia",
+        "l10n": "[North Macedonia, Macédoine du Nord (la), Severna Makedonija]",
+        "r": "Formerly part of Yugoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+        "s": "Officially assigned"
+    },
+    "580": {
+        "alpha2": "MP",
+        "alpha3": "MNP",
+        "name": "Northern Mariana Islands (the)",
+        "l10n": "[Northern Mariana Islands (the), Mariannes du Nord (les Îles)]",
+        "r": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands (MH, MHL, 584), Federated States of Micronesia (FM, FSM, 583), Northern Mariana Islands, and Palau (PW, PLW, 585).",
+        "s": "Officially assigned"
+    },
+    "578": {
+        "alpha2": "NO",
+        "alpha3": "NOR",
+        "name": "Norway",
+        "l10n": "[Norway, Norvège (la), Noreg, Norge]",
+        "s": "Officially assigned"
+    },
+    "512": {
+        "alpha2": "OM",
+        "alpha3": "OMN",
+        "name": "Oman",
+        "l10n": "[‘Umān, Oman, Oman]",
+        "s": "Officially assigned"
+    },
+    "586": {
+        "alpha2": "PK",
+        "alpha3": "PAK",
+        "name": "Pakistan",
+        "l10n": "[Pakistan, Pakistan (le), Pākistān]",
+        "s": "Officially assigned"
+    },
+    "585": {
+        "alpha2": "PW",
+        "alpha3": "PLW",
+        "name": "Palau",
+        "l10n": "[Palau, Palaos (les), Belau]",
+        "r": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands (MH, MHL, 584), Federated States of Micronesia (FM, FSM, 583), Northern Mariana Islands (MP, MNP, 580) and Palau. See also code element PCHH.",
+        "s": "Officially assigned"
+    },
+    "275": {
+        "alpha2": "PS",
+        "alpha3": "PSE",
+        "name": "Palestine, State of",
+        "l10n": "[Dawlat Filasţīn, Palestine, State of, Palestine, État de]",
+        "s": "Officially assigned"
+    },
+    "591": {
+        "alpha2": "PA",
+        "alpha3": "PAN",
+        "name": "Panama",
+        "l10n": "[Panama, Panama (le), Panamá]",
+        "r": "The Zone of the Panama Canal (PZ, PCZ, --) is now part of the entry for Panama (PA, PAN, 591). See also code element PZPA.",
+        "s": "Officially assigned"
+    },
+    "598": {
+        "alpha2": "PG",
+        "alpha3": "PNG",
+        "name": "Papua New Guinea",
+        "l10n": "[Papua New Guinea, Papouasie-Nouvelle-Guinée (la), Papuaniugini, Papuaniugini]",
+        "s": "Officially assigned"
+    },
+    "600": {
+        "alpha2": "PY",
+        "alpha3": "PRY",
+        "name": "Paraguay",
+        "l10n": "[Paraguay, Paraguay (le), Paraguay, Paraguay (el)]",
+        "s": "Officially assigned"
+    },
+    "604": {
+        "alpha2": "PE",
+        "alpha3": "PER",
+        "name": "Peru",
+        "l10n": "[Perú, Peru, Pérou (le), Perú, Perú (el)]",
+        "s": "Officially assigned"
+    },
+    "608": {
+        "alpha2": "PH",
+        "alpha3": "PHL",
+        "name": "Philippines (the)",
+        "l10n": "[Philippines (the), Philippines (les), Pilipinas]",
+        "s": "Officially assigned"
+    },
+    "612": {
+        "alpha2": "PN",
+        "alpha3": "PCN",
+        "name": "Pitcairn",
+        "l10n": "[Pitcairn, Pitcairn]",
+        "s": "Officially assigned"
+    },
+    "616": {
+        "alpha2": "PL",
+        "alpha3": "POL",
+        "name": "Poland",
+        "l10n": "[Poland, Pologne (la), Polska]",
+        "s": "Officially assigned"
+    },
+    "620": {
+        "alpha2": "PT",
+        "alpha3": "PRT",
+        "name": "Portugal",
+        "l10n": "[Portugal, Portugal (le), Portugal]",
+        "s": "Officially assigned"
+    },
+    "630": {
+        "alpha2": "PR",
+        "alpha3": "PRI",
+        "name": "Puerto Rico",
+        "l10n": "[Puerto Rico, Porto Rico, Puerto Rico]",
+        "s": "Officially assigned"
+    },
+    "634": {
+        "alpha2": "QA",
+        "alpha3": "QAT",
+        "name": "Qatar",
+        "l10n": "[Qaţar, Qatar, Qatar (le)]",
+        "s": "Officially assigned"
+    },
+    "642": {
+        "alpha2": "RO",
+        "alpha3": "ROU",
+        "name": "Romania",
+        "l10n": "[Romania, Roumanie (la), România]",
+        "s": "Officially assigned"
+    },
+    "643": {
+        "alpha2": "RU",
+        "alpha3": "RUS",
+        "name": "Russian Federation (the)",
+        "l10n": "[Russian Federation (the), Russie (la Fédération de), Rossijskaja Federacija]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "646": {
+        "alpha2": "RW",
+        "alpha3": "RWA",
+        "name": "Rwanda",
+        "l10n": "[Rwanda, Rwanda (le), Rwanda]",
+        "s": "Officially assigned"
+    },
+    "638": {
+        "alpha2": "RE",
+        "alpha3": "REU",
+        "name": "Réunion",
+        "l10n": "[Réunion, Réunion (La)]",
+        "s": "Officially assigned"
+    },
+    "652": {
+        "alpha2": "BL",
+        "alpha3": "BLM",
+        "name": "Saint Barthélemy",
+        "l10n": "[Saint Barthélemy, Saint-Barthélemy]",
+        "s": "Officially assigned"
+    },
+    "654": {
+        "alpha2": "SH",
+        "alpha3": "SHN",
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "l10n": "[Saint Helena, Ascension and Tristan da Cunha, Sainte-Hélène, Ascension et Tristan da Cunha]",
+        "s": "Officially assigned"
+    },
+    "659": {
+        "alpha2": "KN",
+        "alpha3": "KNA",
+        "name": "Saint Kitts and Nevis",
+        "l10n": "[Saint Kitts and Nevis, Saint-Kitts-et-Nevis]",
+        "s": "Officially assigned"
+    },
+    "662": {
+        "alpha2": "LC",
+        "alpha3": "LCA",
+        "name": "Saint Lucia",
+        "l10n": "[Saint Lucia, Sainte-Lucie]",
+        "s": "Officially assigned"
+    },
+    "663": {
+        "alpha2": "MF",
+        "alpha3": "MAF",
+        "name": "Saint Martin (French part)",
+        "l10n": "[Saint Martin (French part), Saint-Martin (partie française)]",
+        "s": "Officially assigned"
+    },
+    "666": {
+        "alpha2": "PM",
+        "alpha3": "SPM",
+        "name": "Saint Pierre and Miquelon",
+        "l10n": "[Saint Pierre and Miquelon, Saint-Pierre-et-Miquelon]",
+        "s": "Officially assigned"
+    },
+    "670": {
+        "alpha2": "VC",
+        "alpha3": "VCT",
+        "name": "Saint Vincent and the Grenadines",
+        "l10n": "[Saint Vincent and the Grenadines, Saint-Vincent-et-les Grenadines]",
+        "s": "Officially assigned"
+    },
+    "882": {
+        "alpha2": "WS",
+        "alpha3": "WSM",
+        "name": "Samoa",
+        "l10n": "[Samoa, Samoa (le), Samoa]",
+        "s": "Officially assigned"
+    },
+    "674": {
+        "alpha2": "SM",
+        "alpha3": "SMR",
+        "name": "San Marino",
+        "l10n": "[San Marino, Saint-Marin, San Marino]",
+        "s": "Officially assigned"
+    },
+    "678": {
+        "alpha2": "ST",
+        "alpha3": "STP",
+        "name": "Sao Tome and Principe",
+        "l10n": "[Sao Tome and Principe, Sao Tomé-et-Principe, São Tomé e Príncipe]",
+        "s": "Officially assigned"
+    },
+    "682": {
+        "alpha2": "SA",
+        "alpha3": "SAU",
+        "name": "Saudi Arabia",
+        "l10n": "[As Su‘ūdīyah, Saudi Arabia, Arabie saoudite (l')]",
+        "r": "The Neutral Zone (NT, NTZ, 536) was divided and is now part of Iraq (IQ, IRQ, 368) and part of Saudi Arabia (SA, SAU, 682). The code entry (NT, NTZ,  536) was deleted from ISO 3166-1. See also code elelement NTHH.",
+        "s": "Officially assigned"
+    },
+    "686": {
+        "alpha2": "SN",
+        "alpha3": "SEN",
+        "name": "Senegal",
+        "l10n": "[Senegal, Sénégal (le)]",
+        "s": "Officially assigned"
+    },
+    "688": {
+        "alpha2": "RS",
+        "alpha3": "SRB",
+        "name": "Serbia",
+        "l10n": "[Serbia, Serbie (la), Srbija]",
+        "r": "Serbia and Montenegro (CS, SCG, 891) was divided into Serbia (RS, SRB, 688), and Montenegro (ME, MNE, 499). See code element CSXX.",
+        "s": "Officially assigned"
+    },
+    "690": {
+        "alpha2": "SC",
+        "alpha3": "SYC",
+        "name": "Seychelles",
+        "l10n": "[Sesel, Seychelles, Seychelles (les)]",
+        "s": "Officially assigned"
+    },
+    "694": {
+        "alpha2": "SL",
+        "alpha3": "SLE",
+        "name": "Sierra Leone",
+        "l10n": "[Sierra Leone, Sierra Leone (la)]",
+        "s": "Officially assigned"
+    },
+    "702": {
+        "alpha2": "SG",
+        "alpha3": "SGP",
+        "name": "Singapore",
+        "l10n": "[Singapore, Singapour, Singapura, Chiṅkappūr, Xinjiapo]",
+        "s": "Officially assigned"
+    },
+    "534": {
+        "alpha2": "SX",
+        "alpha3": "SXM",
+        "name": "Sint Maarten (Dutch part)",
+        "l10n": "[Sint Maarten (Dutch part), Saint-Martin (partie néerlandaise), Sint Maarten]",
+        "r": "The Netherlands Antilles (AN, ANT, 530) was divided into Bonaire, Saint Eustatius and Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) and Sint Maarten (Dutch part) (SX, SXM, 534). See also code element ANHH.",
+        "s": "Officially assigned",
+        "sr": "The island of Saint Martin is divided into the French northern part and the Dutch southern part"
+    },
+    "703": {
+        "alpha2": "SK",
+        "alpha3": "SVK",
+        "name": "Slovakia",
+        "l10n": "[Slovakia, Slovaquie (la), Slovensko]",
+        "r": "Czechoslovakia (CS, CSK, 200) was divided into Czechia (CZ, CZE, 203), and Slovakia (SK, SVK, 703). See also code element CSHH.",
+        "s": "Officially assigned"
+    },
+    "705": {
+        "alpha2": "SI",
+        "alpha3": "SVN",
+        "name": "Slovenia",
+        "l10n": "[Slovenia, Slovénie (la), Slovenija]",
+        "r": "Formerly part of Yougoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+        "s": "Officially assigned"
+    },
+    "090": {
+        "alpha2": "SB",
+        "alpha3": "SLB",
+        "name": "Solomon Islands",
+        "l10n": "[Solomon Islands, Salomon (les Îles)]",
+        "s": "Officially assigned"
+    },
+    "706": {
+        "alpha2": "SO",
+        "alpha3": "SOM",
+        "name": "Somalia",
+        "l10n": "[Aş Şūmāl, Somalia, Somalie (la), Soomaaliya]",
+        "s": "Officially assigned"
+    },
+    "710": {
+        "alpha2": "ZA",
+        "alpha3": "ZAF",
+        "name": "South Africa",
+        "l10n": "[Suid-Afrika, South Africa, Afrique du Sud (l'), Sewula Afrika, Afrika-Borwa, Afrika-Borwa, Ningizimu Afrika, Afrika-Borwa, Afrika-Dzonga, Afrika Tshipembe, Mzantsi Afrika, Ningizimu Afrika]",
+        "s": "Officially assigned"
+    },
+    "239": {
+        "alpha2": "GS",
+        "alpha3": "SGS",
+        "name": "South Georgia and the South Sandwich Islands",
+        "l10n": "[South Georgia and the South Sandwich Islands, Géorgie du Sud-et-les Îles Sandwich du Sud (la)]",
+        "s": "Officially assigned"
+    },
+    "728": {
+        "alpha2": "SS",
+        "alpha3": "SSD",
+        "name": "South Sudan",
+        "l10n": "[South Sudan, Soudan du Sud (le)]",
+        "s": "Officially assigned"
+    },
+    "724": {
+        "alpha2": "ES",
+        "alpha3": "ESP",
+        "name": "Spain",
+        "l10n": "[Spain, Espagne (l'), España]",
+        "s": "Officially assigned"
+    },
+    "144": {
+        "alpha2": "LK",
+        "alpha3": "LKA",
+        "name": "Sri Lanka",
+        "l10n": "[Sri Lanka, Sri Lanka, Shrī Laṁkā, Ilaṅkai]",
+        "s": "Officially assigned"
+    },
+    "729": {
+        "alpha2": "SD",
+        "alpha3": "SDN",
+        "name": "Sudan (the)",
+        "l10n": "[As Sūdān, Sudan (the), Soudan (le)]",
+        "s": "Officially assigned"
+    },
+    "740": {
+        "alpha2": "SR",
+        "alpha3": "SUR",
+        "name": "Suriname",
+        "l10n": "[Suriname, Suriname (le), Suriname]",
+        "s": "Officially assigned"
+    },
+    "744": {
+        "alpha2": "SJ",
+        "alpha3": "SJM",
+        "name": "Svalbard and Jan Mayen",
+        "l10n": "[Svalbard and Jan Mayen, Svalbard et l'Île Jan Mayen (le), Svalbard og Jan Mayen, Svalbard og Jan Mayen]",
+        "s": "Officially assigned"
+    },
+    "752": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "l10n": "[Sweden, Suède (la), Sverige]",
+        "s": "Officially assigned"
+    },
+    "756": {
+        "alpha2": "CH",
+        "alpha3": "CHE",
+        "name": "Switzerland",
+        "l10n": "[Schweiz (die), Switzerland, Suisse (la), Svizzera (la), Svizra (la)]",
+        "s": "Officially assigned"
+    },
+    "760": {
+        "alpha2": "SY",
+        "alpha3": "SYR",
+        "name": "Syrian Arab Republic (the)",
+        "l10n": "[Al Jumhūrīyah al ‘Arabīyah as Sūrīyah, Syrian Arab Republic (the), République arabe syrienne (la)]",
+        "s": "Officially assigned"
+    },
+    "158": {
+        "alpha2": "TW",
+        "alpha3": "TWN",
+        "name": "Taiwan (Province of China)",
+        "l10n": "[Taiwan (Province of China), Taïwan (Province de Chine), Taiwan]",
+        "s": "Officially assigned"
+    },
+    "762": {
+        "alpha2": "TJ",
+        "alpha3": "TJK",
+        "name": "Tajikistan",
+        "l10n": "[Tajikistan, Tadjikistan (le), Tojikiston]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "834": {
+        "alpha2": "TZ",
+        "alpha3": "TZA",
+        "name": "Tanzania, the United Republic of",
+        "l10n": "[Tanzania, the United Republic of, Tanzanie (la République-Unie de), Jamhuri ya Muungano wa Tanzania]",
+        "s": "Officially assigned"
+    },
+    "764": {
+        "alpha2": "TH",
+        "alpha3": "THA",
+        "name": "Thailand",
+        "l10n": "[Thailand, Thaïlande (la), Prathet Thai]",
+        "s": "Officially assigned"
+    },
+    "626": {
+        "alpha2": "TL",
+        "alpha3": "TLS",
+        "name": "Timor-Leste",
+        "l10n": "[Timor-Leste, Timor-Leste (le), Timor-Leste, Timor Lorosa'e]",
+        "r": "Name changed from East Timor (TP, TMP, 626) to Timor-Leste. See also code entry TPTL.",
+        "s": "Officially assigned"
+    },
+    "768": {
+        "alpha2": "TG",
+        "alpha3": "TGO",
+        "name": "Togo",
+        "l10n": "[Togo, Togo (le)]",
+        "s": "Officially assigned"
+    },
+    "772": {
+        "alpha2": "TK",
+        "alpha3": "TKL",
+        "name": "Tokelau",
+        "l10n": "[Tokelau, Tokelau (les), Tokelau]",
+        "s": "Officially assigned"
+    },
+    "776": {
+        "alpha2": "TO",
+        "alpha3": "TON",
+        "name": "Tonga",
+        "l10n": "[Tonga, Tonga (les), Tonga]",
+        "s": "Officially assigned"
+    },
+    "780": {
+        "alpha2": "TT",
+        "alpha3": "TTO",
+        "name": "Trinidad and Tobago",
+        "l10n": "[Trinidad and Tobago, Trinité-et-Tobago (la)]",
+        "s": "Officially assigned"
+    },
+    "788": {
+        "alpha2": "TN",
+        "alpha3": "TUN",
+        "name": "Tunisia",
+        "l10n": "[Tūnis, Tunisia, Tunisie (la)]",
+        "s": "Officially assigned"
+    },
+    "792": {
+        "alpha2": "TR",
+        "alpha3": "TUR",
+        "name": "Turkey",
+        "l10n": "[Turkey, Turquie (la), Türkiye]",
+        "s": "Officially assigned"
+    },
+    "795": {
+        "alpha2": "TM",
+        "alpha3": "TKM",
+        "name": "Turkmenistan",
+        "l10n": "[Turkmenistan, Turkménistan (le), Türkmenistan]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "796": {
+        "alpha2": "TC",
+        "alpha3": "TCA",
+        "name": "Turks and Caicos Islands (the)",
+        "l10n": "[Turks and Caicos Islands (the), Turks-et-Caïcos (les Îles)]",
+        "s": "Officially assigned"
+    },
+    "798": {
+        "alpha2": "TV",
+        "alpha3": "TUV",
+        "name": "Tuvalu",
+        "l10n": "[Tuvalu, Tuvalu (les), Tuvalu]",
+        "r": "Gilbert and Ellice Islands (GE, GEL, --) divided into: Gilbert Islands incorporated into Kiribati (KI, KIR, 296), and Ellice Islands incorporated into Tuvalu (TV, TUV, 798). See code element GEHH.",
+        "s": "Officially assigned"
+    },
+    "800": {
+        "alpha2": "UG",
+        "alpha3": "UGA",
+        "name": "Uganda",
+        "l10n": "[Uganda, Ouganda (l')]",
+        "s": "Officially assigned"
+    },
+    "804": {
+        "alpha2": "UA",
+        "alpha3": "UKR",
+        "name": "Ukraine",
+        "l10n": "[Ukraine, Ukraine (l'), Ukraina]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "784": {
+        "alpha2": "AE",
+        "alpha3": "ARE",
+        "name": "United Arab Emirates (the)",
+        "l10n": "[Al Imārāt, United Arab Emirates (the), Émirats arabes unis (les)]",
+        "s": "Officially assigned"
+    },
+    "826": {
+        "alpha2": "GB",
+        "alpha3": "GBR",
+        "name": "United Kingdom of Great Britain and Northern Ireland (the)",
+        "l10n": "[United Kingdom of Great Britain and Northern Ireland (the), Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)]",
+        "s": "Officially assigned"
+    },
+    "581": {
+        "alpha2": "UM",
+        "alpha3": "UMI",
+        "name": "United States Minor Outlying Islands (the)",
+        "l10n": "[United States Minor Outlying Islands (the), Îles mineures éloignées des États-Unis (les)]",
+        "r": "Johnston Island (JT, JTN, 396) is now incorporated in the entry for US Minor Outlying Islands. See also code element JTUM. Midway Islands (MI, MID, 488) are now incorporated in the entry for US Minor Outlying Islands. See also code element MIUM. United States Miscellaneous Pacific Islands (PU, PUS, 849) are now incorporated in the entry for US Minor Outlying Islands. See also code element PUUM. Wake Island (WK, WAK, 872) is now incorporated in the entry for US Minor Outlying Islands (UM, UMI, 581). See also code element WKUM.",
+        "s": "Officially assigned"
+    },
+    "840": {
+        "alpha2": "US",
+        "alpha3": "USA",
+        "name": "United States of America (the)",
+        "l10n": "[United States of America (the), États-Unis d'Amérique (les)]",
+        "s": "Officially assigned"
+    },
+    "858": {
+        "alpha2": "UY",
+        "alpha3": "URY",
+        "name": "Uruguay",
+        "l10n": "[Uruguay, Uruguay (l'), Uruguay (el)]",
+        "s": "Officially assigned"
+    },
+    "860": {
+        "alpha2": "UZ",
+        "alpha3": "UZB",
+        "name": "Uzbekistan",
+        "l10n": "[Uzbekistan, Ouzbékistan (l'), O‘zbekiston]",
+        "r": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+        "s": "Officially assigned"
+    },
+    "548": {
+        "alpha2": "VU",
+        "alpha3": "VUT",
+        "name": "Vanuatu",
+        "l10n": "[Vanuatu, Vanuatu, Vanuatu (le)]",
+        "r": "Name changed from New Hebrides (NH, NHB, --) to Vanuatu. See also code element NHVU.",
+        "s": "Officially assigned"
+    },
+    "862": {
+        "alpha2": "VE",
+        "alpha3": "VEN",
+        "name": "Venezuela (Bolivarian Republic of)",
+        "l10n": "[Venezuela (Bolivarian Republic of), Venezuela (République bolivarienne du), Venezuela, República Bolivariana de]",
+        "s": "Officially assigned"
+    },
+    "704": {
+        "alpha2": "VN",
+        "alpha3": "VNM",
+        "name": "Viet Nam",
+        "l10n": "[Viet Nam, Viet Nam (le), Việt Nam]",
+        "r": "The former Democratic Republic of Viet-Nam (VD, VDR, --) is  now part of the entry for Viet Nam (VN, VNM, 704). See also the code element VDVN.",
+        "s": "Officially assigned"
+    },
+    "092": {
+        "alpha2": "VG",
+        "alpha3": "VGB",
+        "name": "Virgin Islands (British)",
+        "l10n": "[Virgin Islands (British), Vierges britanniques (les Îles)]",
+        "s": "Officially assigned"
+    },
+    "850": {
+        "alpha2": "VI",
+        "alpha3": "VIR",
+        "name": "Virgin Islands (U.S.)",
+        "l10n": "[Virgin Islands (U.S.), Vierges des États-Unis (les Îles)]",
+        "s": "Officially assigned"
+    },
+    "876": {
+        "alpha2": "WF",
+        "alpha3": "WLF",
+        "name": "Wallis and Futuna",
+        "l10n": "[Wallis and Futuna, Wallis-et-Futuna ]",
+        "s": "Officially assigned"
+    },
+    "732": {
+        "alpha2": "EH",
+        "alpha3": "ESH",
+        "name": "Western Sahara*",
+        "l10n": "[Aş Şaḩrā' al Gharbīyah, Western Sahara*, Sahara occidental (le)*]",
+        "s": "Officially assigned",
+        "sr": "ye"
+    },
+    "887": {
+        "alpha2": "YE",
+        "alpha3": "YEM",
+        "name": "Yemen",
+        "l10n": "[Al Yaman, Yemen, Yémen (le)]",
+        "r": "The Democratic Yemen (YD, YMD, 720) was incorporated into the entry Yemen (YE, YEM, 887). See also the code element YDYE.",
+        "s": "Officially assigned"
+    },
+    "894": {
+        "alpha2": "ZM",
+        "alpha3": "ZMB",
+        "name": "Zambia",
+        "l10n": "[Zambia, Zambie (la)]",
+        "s": "Officially assigned"
+    },
+    "716": {
+        "alpha2": "ZW",
+        "alpha3": "ZWE",
+        "name": "Zimbabwe",
+        "l10n": "[Zimbabwe, Zimbabwe (le)]",
+        "r": "Name changed from Southern Rhodesia (RH, RHO, --) to Zimbabwe (ZW, ZWE, 716). See also code element RHZW.",
+        "s": "Officially assigned"
+    },
+    "248": {
+        "alpha2": "AX",
+        "alpha3": "ALA",
+        "name": "Åland Islands",
+        "l10n": "[Åland Islands, Åland(les Îles), Åland]",
+        "s": "Officially assigned"
+    }
+}
