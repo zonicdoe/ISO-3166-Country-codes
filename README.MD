@@ -6,7 +6,7 @@ This repository contains several JSON files formatted in different ways to suit 
 For basic Country to Alpha-2 or Alpha-3 translation and vise-versa, use one of the [short JSON files](#short).
 
 ## **Table of contents:**
-* [File summary](#files)
+* [File summary](#file-summary)
 * [Original JSON:](#original) full JSON data fetched from the [ISO.org Vaadin webapp](https://www.iso.org/obp/ui/#search/code/)
 * [Curated JSON:](#curated) empty and useless data removed
   + [Not indexed](#curated-not-indexed)
@@ -21,8 +21,7 @@ For basic Country to Alpha-2 or Alpha-3 translation and vise-versa, use one of t
 * [Changelog](#changelog)
 * [What does "extractor.py" do?](#extractor-description)
 
-## <a name="files"></a>**File summary**
---------------------------------------------
+## <a name="file-summary"></a>**File summary**
 
 <table>
     <tr>
@@ -81,9 +80,8 @@ For basic Country to Alpha-2 or Alpha-3 translation and vise-versa, use one of t
 </table>
 
 ## <a name="original"></a>**Original JSON**
---------------------------------------------
 
-### [Indented, human readable JSON file  »](https://github.com/zonicdoe/ISO-3166-Country-codes/Indented-lists/ISO-3166-ID-ISO.ORG.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Single-line-lists/ISO-3166-SL-ISO.ORG.json)
+#### [Indented, human readable JSON file  »](Indented-lists/ISO-3166-ID-ISO.ORG.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](Single-line-lists/ISO-3166-SL-ISO.ORG.json)
 
 |Key | description |
 |---|---|
@@ -142,7 +140,6 @@ Ex. get the country name of the 5th country (index 4) of the list:\
 `JSON[0][4]["159"]`
 
 ## <a name="curated"></a>**Curated JSON**
------------------------------------------
 
 |Key | description |
 |---|---|
@@ -157,7 +154,7 @@ Ex. get the country name of the 5th country (index 4) of the list:\
 
 ### <a name="curated-not-indexed"></a>**Not indexed**
 
-#### [Indented, human readable JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Indented-lists/ISO-3166-ID-CURATED.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Single-line-lists/ISO-3166-SL-CURATED.json)
+#### [Indented, human readable JSON file »](Indented-lists/ISO-3166-ID-CURATED.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](Single-line-lists/ISO-3166-SL-CURATED.json)
 
 Structure sample:
 ```
@@ -182,7 +179,7 @@ Ex. get the country name of the 5th country (index 4) of the list:\
 
 ### <a name="curated-alpha2"></a>**Indexed by Alpha-2 country code**
 
-#### [Indented, human readable JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Indented-lists/ISO-3166-ID-CURATED-ALPHA2.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Single-line-lists/ISO-3166-SL-CURATED-ALPHA2.json)
+#### [Indented, human readable JSON file »](Indented-lists/ISO-3166-ID-CURATED-ALPHA2.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](Single-line-lists/ISO-3166-SL-CURATED-ALPHA2.json)
 
 Structure sample:
 ```
@@ -206,7 +203,7 @@ Ex. get the country name corresponding to the Alpha-2 country code "US":\
 
 ### <a name="curated-num"></a>**Indexed by numeric country code**
 
-#### [Indented, human readable JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Indented-lists/ISO-3166-ID-CURATED-NUM.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Single-line-lists/ISO-3166-SL-CURATED-NUM.json)
+#### [Indented, human readable JSON file »](Indented-lists/ISO-3166-ID-CURATED-NUM.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](Single-line-lists/ISO-3166-SL-CURATED-NUM.json)
 
 Structure sample:
 ```
@@ -230,7 +227,7 @@ Ex. get the country name corresponding to the numeric country code "840":\
 
 ### <a name="curated-name"></a>**Indexed by country name**
 
-#### [Indented, human readable JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Indented-lists/ISO-3166-ID-CURATED-NAME.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Single-line-lists/ISO-3166-SL-CURATED-NAME.json)
+#### [Indented, human readable JSON file »](Indented-lists/ISO-3166-ID-CURATED-NAME.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](Single-line-lists/ISO-3166-SL-CURATED-NAME.json)
 
 Structure sample:
 ```
@@ -253,7 +250,6 @@ Ex. get the Alpha-2 country code of the United States of America:\
 `JSON["United States of America (the)"]["alpha2"]`
 
 ## <a name="short"></a>**Short JSON**
----
 
 |Key | description |
 |---|---|
@@ -264,7 +260,7 @@ Ex. get the Alpha-2 country code of the United States of America:\
 
 ### <a name="short-not-indexed"></a>**Not indexed**
 
-#### [Indented, human readable JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Indented-lists/ISO-3166-ID-SHORT.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Single-line-lists/ISO-3166-SL-SHORT.json)
+#### [Indented, human readable JSON file »](Indented-lists/ISO-3166-ID-SHORT.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](Single-line-lists/ISO-3166-SL-SHORT.json)
 
 Structure sample:
 ```
@@ -285,7 +281,7 @@ Ex. get the country name of the 5th country (index 4) of the list:\
 
 ### <a name="short-alpha2"></a>**Indexed by Alpha-2 country code**
 
-#### [Indented, human readable JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Indented-lists/ISO-3166-ID-SHORT-ALPHA2.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Single-line-lists/ISO-3166-SL-SHORT-ALPHA2.json)
+#### [Indented, human readable JSON file »](Indented-lists/ISO-3166-ID-SHORT-ALPHA2.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](Single-line-lists/ISO-3166-SL-SHORT-ALPHA2.json)
 
 Structure sample:
 ```
@@ -305,7 +301,7 @@ Ex. get the country name corresponding to the Alpha-2 country code "US":\
 
 ### <a name="short-num"></a>**Indexed by numeric country code**
 
-#### [Indented, human readable JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Indented-lists/ISO-3166-ID-SHORT-NUM.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Single-line-lists/ISO-3166-SL-SHORT-NUM.json)
+#### [Indented, human readable JSON file »](Indented-lists/ISO-3166-ID-SHORT-NUM.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](Single-line-lists/ISO-3166-SL-SHORT-NUM.json)
 
 Structure sample:
 ```
@@ -325,7 +321,7 @@ Ex. get the country name corresponding to the country numeric code "840":\
 
 ### <a name="short-name"></a>**Indexed by country name**
 
-#### [Indented, human readable JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Indented-lists/ISO-3166-ID-SHORT-NAME.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](https://github.com/zonicdoe/ISO-3166-Country-codes/Single-line-lists/ISO-3166-SL-SHORT-NAME.json)
+#### [Indented, human readable JSON file »](Indented-lists/ISO-3166-ID-SHORT-NAME.json) &nbsp;**|**&nbsp; [Single line, compact JSON file »](Single-line-lists/ISO-3166-SL-SHORT-NAME.json)
 
 Structure sample:
 ```
@@ -344,11 +340,11 @@ Ex. get the Alpha-2 country code of the United States of America:\
 `JSON["United States of America (the)"]["alpha2"]`
 
 ## **Changelog**
-----------------
+
 * version 1.0.0 - 09/30/2020: Initial commit
 
 ## <a name="extractor-description"></a>**What does "extractor.py" do?**
------------------------------------------------------------------------
+
 It is a Pyhton script that requests JSON data from the ISO.org's Vaadin webapp server and generates all the JSON files contained in this repository.
 
 To update the JSON files, execute the script with:\
